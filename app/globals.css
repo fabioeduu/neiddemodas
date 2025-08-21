@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adicione aqui seus estilos globais, se quiser */
+:root{--line:#e5e7eb;}
+.container{width:min(1200px,100% - 2rem);margin-inline:auto}
+.card-shadow{box-shadow:0 1px 0 rgba(0,0,0,.06)}
+.sticky-top{position:sticky;top:64px}

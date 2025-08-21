@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "slug": "produto-1",
+    "title": "Peça 1",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 154,
+    "originalPrice": 245,
+    "discount": 37,
+    "sizes": [
+      "50",
+      "40",
+      "38",
+      "46",
+      "42"
+    ],
+    "colors": [
+      "Verde",
+      "Preto"
+    ],
+    "image": "/produtos/1.svg",
+    "rating": 3.2,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 2,
+    "slug": "produto-2",
+    "title": "Peça 2",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 75,
+    "originalPrice": 106,
+    "discount": 29,
+    "sizes": [
+      "52",
+      "46"
+    ],
+    "colors": [
+      "Verde",
+      "Preto"
+    ],
+    "image": "/produtos/2.svg",
+    "rating": 4.2,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 3,
+    "slug": "produto-3",
+    "title": "Peça 3",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 55,
+    "originalPrice": 82,
+    "discount": 33,
+    "sizes": [
+      "40",
+      "34",
+      "48"
+    ],
+    "colors": [
+      "Vermelho",
+      "Preto"
+    ],
+    "image": "/produtos/3.svg",
+    "rating": 4.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 4,
+    "slug": "produto-4",
+    "title": "Peça 4",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 114,
+    "originalPrice": 197,
+    "discount": 42,
+    "sizes": [
+      "48",
+      "42"
+    ],
+    "colors": [
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/4.svg",
+    "rating": 4.4,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 5,
+    "slug": "produto-5",
+    "title": "Peça 5",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 97,
+    "originalPrice": 182,
+    "discount": 47,
+    "sizes": [
+      "36",
+      "52"
+    ],
+    "colors": [
+      "Azul",
+      "Branco"
+    ],
+    "image": "/produtos/5.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 6,
+    "slug": "produto-6",
+    "title": "Peça 6",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 39,
+    "originalPrice": 86,
+    "discount": 55,
+    "sizes": [
+      "48",
+      "46"
+    ],
+    "colors": [
+      "Vermelho",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/6.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 7,
+    "slug": "produto-7",
+    "title": "Peça 7",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 108,
+    "originalPrice": 171,
+    "discount": 37,
+    "sizes": [
+      "44",
+      "34",
+      "46",
+      "48"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/7.svg",
+    "rating": 3.5,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 8,
+    "slug": "produto-8",
+    "title": "Peça 8",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 41,
+    "originalPrice": 68,
+    "discount": 40,
+    "sizes": [
+      "38",
+      "50",
+      "40",
+      "48",
+      "42"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/8.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 9,
+    "slug": "produto-9",
+    "title": "Peça 9",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 68,
+    "originalPrice": 138,
+    "discount": 51,
+    "sizes": [
+      "34",
+      "42",
+      "50"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/9.svg",
+    "rating": 3.4,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 10,
+    "slug": "produto-10",
+    "title": "Peça 10",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 186,
+    "originalPrice": 218,
+    "discount": 15,
+    "sizes": [
+      "40",
+      "48",
+      "42"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/10.svg",
+    "rating": 3.7,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 11,
+    "slug": "produto-11",
+    "title": "Peça 11",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 137,
+    "originalPrice": 166,
+    "discount": 17,
+    "sizes": [
+      "40",
+      "52"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/11.svg",
+    "rating": 3.7,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 12,
+    "slug": "produto-12",
+    "title": "Peça 12",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 155,
+    "originalPrice": 191,
+    "discount": 19,
+    "sizes": [
+      "52",
+      "38",
+      "46",
+      "36",
+      "44"
+    ],
+    "colors": [
+      "Branco"
+    ],
+    "image": "/produtos/12.svg",
+    "rating": 4.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 13,
+    "slug": "produto-13",
+    "title": "Peça 13",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 102,
+    "originalPrice": 214,
+    "discount": 52,
+    "sizes": [
+      "50",
+      "40",
+      "46"
+    ],
+    "colors": [
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/1.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 14,
+    "slug": "produto-14",
+    "title": "Peça 14",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 66,
+    "originalPrice": 90,
+    "discount": 27,
+    "sizes": [
+      "40",
+      "46",
+      "42",
+      "52"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Verde"
+    ],
+    "image": "/produtos/2.svg",
+    "rating": 3.4,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 15,
+    "slug": "produto-15",
+    "title": "Peça 15",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 56,
+    "originalPrice": 92,
+    "discount": 39,
+    "sizes": [
+      "50",
+      "36",
+      "42",
+      "52",
+      "46"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Preto"
+    ],
+    "image": "/produtos/3.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 16,
+    "slug": "produto-16",
+    "title": "Peça 16",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 54,
+    "originalPrice": 79,
+    "discount": 32,
+    "sizes": [
+      "44",
+      "50",
+      "38",
+      "34"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/produtos/4.svg",
+    "rating": 5.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 17,
+    "slug": "produto-17",
+    "title": "Peça 17",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 172,
+    "originalPrice": 266,
+    "discount": 35,
+    "sizes": [
+      "34",
+      "48"
+    ],
+    "colors": [
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/5.svg",
+    "rating": 3.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 18,
+    "slug": "produto-18",
+    "title": "Peça 18",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 58,
+    "originalPrice": 139,
+    "discount": 58,
+    "sizes": [
+      "44",
+      "38",
+      "36",
+      "34"
+    ],
+    "colors": [
+      "Verde",
+      "Branco"
+    ],
+    "image": "/produtos/6.svg",
+    "rating": 4.5,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 19,
+    "slug": "produto-19",
+    "title": "Peça 19",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 72,
+    "originalPrice": 135,
+    "discount": 47,
+    "sizes": [
+      "48",
+      "36"
+    ],
+    "colors": [
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/produtos/7.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 20,
+    "slug": "produto-20",
+    "title": "Peça 20",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 136,
+    "originalPrice": 204,
+    "discount": 33,
+    "sizes": [
+      "52",
+      "36"
+    ],
+    "colors": [
+      "Azul"
+    ],
+    "image": "/produtos/8.svg",
+    "rating": 4.3,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 21,
+    "slug": "produto-21",
+    "title": "Peça 21",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 145,
+    "originalPrice": 258,
+    "discount": 44,
+    "sizes": [
+      "52",
+      "48",
+      "50",
+      "40",
+      "42"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/9.svg",
+    "rating": 4.5,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 22,
+    "slug": "produto-22",
+    "title": "Peça 22",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 118,
+    "originalPrice": 214,
+    "discount": 45,
+    "sizes": [
+      "34",
+      "40",
+      "36",
+      "50",
+      "42"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Azul"
+    ],
+    "image": "/produtos/10.svg",
+    "rating": 3.7,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 23,
+    "slug": "produto-23",
+    "title": "Peça 23",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 195,
+    "originalPrice": 240,
+    "discount": 19,
+    "sizes": [
+      "44",
+      "48",
+      "50"
+    ],
+    "colors": [
+      "Branco"
+    ],
+    "image": "/produtos/11.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 24,
+    "slug": "produto-24",
+    "title": "Peça 24",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 89,
+    "originalPrice": 190,
+    "discount": 53,
+    "sizes": [
+      "40",
+      "46",
+      "52"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/produtos/12.svg",
+    "rating": 3.3,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 25,
+    "slug": "produto-25",
+    "title": "Peça 25",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 49,
+    "originalPrice": 160,
+    "discount": 69,
+    "sizes": [
+      "38",
+      "36",
+      "48",
+      "40"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/produtos/1.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 26,
+    "slug": "produto-26",
+    "title": "Peça 26",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 165,
+    "originalPrice": 271,
+    "discount": 39,
+    "sizes": [
+      "44",
+      "36",
+      "34",
+      "38",
+      "42"
+    ],
+    "colors": [
+      "Branco"
+    ],
+    "image": "/produtos/2.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 27,
+    "slug": "produto-27",
+    "title": "Peça 27",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 183,
+    "originalPrice": 205,
+    "discount": 11,
+    "sizes": [
+      "46",
+      "48",
+      "40"
+    ],
+    "colors": [
+      "Branco"
+    ],
+    "image": "/produtos/3.svg",
+    "rating": 3.5,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 28,
+    "slug": "produto-28",
+    "title": "Peça 28",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 51,
+    "originalPrice": 151,
+    "discount": 66,
+    "sizes": [
+      "36",
+      "50",
+      "44",
+      "34",
+      "48"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/4.svg",
+    "rating": 4.6,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 29,
+    "slug": "produto-29",
+    "title": "Peça 29",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 84,
+    "originalPrice": 195,
+    "discount": 57,
+    "sizes": [
+      "50",
+      "34",
+      "38",
+      "36",
+      "48"
+    ],
+    "colors": [
+      "Verde",
+      "Preto"
+    ],
+    "image": "/produtos/5.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 30,
+    "slug": "produto-30",
+    "title": "Peça 30",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 96,
+    "originalPrice": 127,
+    "discount": 24,
+    "sizes": [
+      "38",
+      "48",
+      "50",
+      "36",
+      "44"
+    ],
+    "colors": [
+      "Vermelho"
+    ],
+    "image": "/produtos/6.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 31,
+    "slug": "produto-31",
+    "title": "Peça 31",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 167,
+    "originalPrice": 230,
+    "discount": 27,
+    "sizes": [
+      "40",
+      "36",
+      "50",
+      "48"
+    ],
+    "colors": [
+      "Vermelho"
+    ],
+    "image": "/produtos/7.svg",
+    "rating": 5.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 32,
+    "slug": "produto-32",
+    "title": "Peça 32",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 176,
+    "originalPrice": 237,
+    "discount": 26,
+    "sizes": [
+      "44",
+      "50"
+    ],
+    "colors": [
+      "Azul"
+    ],
+    "image": "/produtos/8.svg",
+    "rating": 3.9,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 33,
+    "slug": "produto-33",
+    "title": "Peça 33",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 146,
+    "originalPrice": 264,
+    "discount": 45,
+    "sizes": [
+      "34",
+      "40",
+      "36",
+      "50",
+      "52"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/9.svg",
+    "rating": 3.7,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 34,
+    "slug": "produto-34",
+    "title": "Peça 34",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 159,
+    "originalPrice": 198,
+    "discount": 20,
+    "sizes": [
+      "48",
+      "36",
+      "40",
+      "52",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/produtos/10.svg",
+    "rating": 4.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 35,
+    "slug": "produto-35",
+    "title": "Peça 35",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 104,
+    "originalPrice": 163,
+    "discount": 36,
+    "sizes": [
+      "52",
+      "40",
+      "42",
+      "46",
+      "36"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Vermelho"
+    ],
+    "image": "/produtos/11.svg",
+    "rating": 4.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 36,
+    "slug": "produto-36",
+    "title": "Peça 36",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 176,
+    "originalPrice": 210,
+    "discount": 16,
+    "sizes": [
+      "52",
+      "46"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/12.svg",
+    "rating": 4.9,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 37,
+    "slug": "produto-37",
+    "title": "Peça 37",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 141,
+    "originalPrice": 230,
+    "discount": 39,
+    "sizes": [
+      "48",
+      "36"
+    ],
+    "colors": [
+      "Preto",
+      "Azul",
+      "Branco"
+    ],
+    "image": "/produtos/1.svg",
+    "rating": 3.9,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 38,
+    "slug": "produto-38",
+    "title": "Peça 38",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 107,
+    "originalPrice": 158,
+    "discount": 32,
+    "sizes": [
+      "38",
+      "44",
+      "46",
+      "48",
+      "40"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/produtos/2.svg",
+    "rating": 3.8,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 39,
+    "slug": "produto-39",
+    "title": "Peça 39",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 105,
+    "originalPrice": 141,
+    "discount": 26,
+    "sizes": [
+      "34",
+      "40"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/3.svg",
+    "rating": 3.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 40,
+    "slug": "produto-40",
+    "title": "Peça 40",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 121,
+    "originalPrice": 233,
+    "discount": 48,
+    "sizes": [
+      "52",
+      "48",
+      "36"
+    ],
+    "colors": [
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/4.svg",
+    "rating": 4.7,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 41,
+    "slug": "produto-41",
+    "title": "Peça 41",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 103,
+    "originalPrice": 214,
+    "discount": 52,
+    "sizes": [
+      "34",
+      "46",
+      "50",
+      "48",
+      "42"
+    ],
+    "colors": [
+      "Preto",
+      "Verde",
+      "Branco"
+    ],
+    "image": "/produtos/5.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 42,
+    "slug": "produto-42",
+    "title": "Peça 42",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 174,
+    "originalPrice": 221,
+    "discount": 21,
+    "sizes": [
+      "40",
+      "44",
+      "38"
+    ],
+    "colors": [
+      "Verde",
+      "Branco"
+    ],
+    "image": "/produtos/6.svg",
+    "rating": 4.8,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 43,
+    "slug": "produto-43",
+    "title": "Peça 43",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 94,
+    "originalPrice": 213,
+    "discount": 56,
+    "sizes": [
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Azul"
+    ],
+    "image": "/produtos/7.svg",
+    "rating": 3.5,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 44,
+    "slug": "produto-44",
+    "title": "Peça 44",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 150,
+    "originalPrice": 223,
+    "discount": 33,
+    "sizes": [
+      "40",
+      "46",
+      "34"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/8.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 45,
+    "slug": "produto-45",
+    "title": "Peça 45",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 131,
+    "originalPrice": 165,
+    "discount": 21,
+    "sizes": [
+      "50",
+      "40",
+      "36",
+      "52"
+    ],
+    "colors": [
+      "Azul"
+    ],
+    "image": "/produtos/9.svg",
+    "rating": 3.1,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 46,
+    "slug": "produto-46",
+    "title": "Peça 46",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 196,
+    "originalPrice": 281,
+    "discount": 30,
+    "sizes": [
+      "38",
+      "40",
+      "52",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/10.svg",
+    "rating": 5.0,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 47,
+    "slug": "produto-47",
+    "title": "Peça 47",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 63,
+    "originalPrice": 157,
+    "discount": 60,
+    "sizes": [
+      "48",
+      "36",
+      "50"
+    ],
+    "colors": [
+      "Vermelho",
+      "Verde"
+    ],
+    "image": "/produtos/11.svg",
+    "rating": 3.9,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 48,
+    "slug": "produto-48",
+    "title": "Peça 48",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 149,
+    "originalPrice": 195,
+    "discount": 24,
+    "sizes": [
+      "34",
+      "52",
+      "40",
+      "36"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco"
+    ],
+    "image": "/produtos/12.svg",
+    "rating": 4.5,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 49,
+    "slug": "produto-49",
+    "title": "Peça 49",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 88,
+    "originalPrice": 185,
+    "discount": 52,
+    "sizes": [
+      "50",
+      "34"
+    ],
+    "colors": [
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/produtos/1.svg",
+    "rating": 4.1,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 50,
+    "slug": "produto-50",
+    "title": "Peça 50",
+    "brand": "Myh Concept",
+    "category": "Saia Plus",
+    "price": 168,
+    "originalPrice": 262,
+    "discount": 36,
+    "sizes": [
+      "42",
+      "36",
+      "38",
+      "46"
+    ],
+    "colors": [
+      "Preto",
+      "Branco"
+    ],
+    "image": "/produtos/2.svg",
+    "rating": 4.8,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 51,
+    "slug": "produto-51",
+    "title": "Peça 51",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 133,
+    "originalPrice": 251,
+    "discount": 47,
+    "sizes": [
+      "46",
+      "40",
+      "38"
+    ],
+    "colors": [
+      "Branco"
+    ],
+    "image": "/produtos/3.svg",
+    "rating": 3.6,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 52,
+    "slug": "produto-52",
+    "title": "Peça 52",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 41,
+    "originalPrice": 106,
+    "discount": 61,
+    "sizes": [
+      "40",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/4.svg",
+    "rating": 4.3,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 53,
+    "slug": "produto-53",
+    "title": "Peça 53",
+    "brand": "Myh Concept",
+    "category": "Cinto",
+    "price": 85,
+    "originalPrice": 173,
+    "discount": 51,
+    "sizes": [
+      "50",
+      "48",
+      "40",
+      "44",
+      "34"
+    ],
+    "colors": [
+      "Verde",
+      "Azul"
+    ],
+    "image": "/produtos/5.svg",
+    "rating": 3.2,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 54,
+    "slug": "produto-54",
+    "title": "Peça 54",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 99,
+    "originalPrice": 151,
+    "discount": 34,
+    "sizes": [
+      "50",
+      "34",
+      "40",
+      "44",
+      "48"
+    ],
+    "colors": [
+      "Azul"
+    ],
+    "image": "/produtos/6.svg",
+    "rating": 3.5,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 55,
+    "slug": "produto-55",
+    "title": "Peça 55",
+    "brand": "Myh Concept",
+    "category": "Moletom",
+    "price": 126,
+    "originalPrice": 216,
+    "discount": 42,
+    "sizes": [
+      "50",
+      "36",
+      "48",
+      "46",
+      "44"
+    ],
+    "colors": [
+      "Verde"
+    ],
+    "image": "/produtos/7.svg",
+    "rating": 4.2,
+    "installments": 6,
+    "new": true
+  },
+  {
+    "id": 56,
+    "slug": "produto-56",
+    "title": "Peça 56",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 137,
+    "originalPrice": 177,
+    "discount": 23,
+    "sizes": [
+      "38",
+      "48",
+      "34",
+      "40",
+      "46"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho"
+    ],
+    "image": "/produtos/8.svg",
+    "rating": 4.2,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 57,
+    "slug": "produto-57",
+    "title": "Peça 57",
+    "brand": "Myh Concept",
+    "category": "Camiseta",
+    "price": 174,
+    "originalPrice": 230,
+    "discount": 24,
+    "sizes": [
+      "50",
+      "42",
+      "52",
+      "34"
+    ],
+    "colors": [
+      "Preto"
+    ],
+    "image": "/produtos/9.svg",
+    "rating": 4.2,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 58,
+    "slug": "produto-58",
+    "title": "Peça 58",
+    "brand": "Myh Concept",
+    "category": "Bermuda",
+    "price": 79,
+    "originalPrice": 151,
+    "discount": 48,
+    "sizes": [
+      "34",
+      "44",
+      "46",
+      "52",
+      "42"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/produtos/10.svg",
+    "rating": 3.9,
+    "installments": 6,
+    "new": false
+  },
+  {
+    "id": 59,
+    "slug": "produto-59",
+    "title": "Peça 59",
+    "brand": "Myh Concept",
+    "category": "Calça Jeans",
+    "price": 103,
+    "originalPrice": 219,
+    "discount": 53,
+    "sizes": [
+      "50",
+      "36"
+    ],
+    "colors": [
+      "Vermelho",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/produtos/11.svg",
+    "rating": 4.2,
+    "installments": 6,
+    "new": true
+  }
+]
