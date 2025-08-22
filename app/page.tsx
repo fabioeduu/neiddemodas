@@ -12,15 +12,17 @@ function normalize(str: string) {
 }
 
 // Busca produtos da API externa, se configurada
-async function fetchProductsFromApi() {
-  const base = process.env.NEXT_PUBLIC_API_URL
-  if (!base) return null
+async function fetchProductsFromApi(): Promise<Product[] | null> {
+  const base = process.env.NEXT_PUBLIC_API_URL || 'https://myh-backend.onrender.com';
+  if (!base) return null;
+
   try {
-    const res = await fetch(`${base.replace(/\/$/, '')}/products`, { cache: 'no-store' })
-    if (!res.ok) return null
-    return await res.json()
-  } catch {
-    return null
+    const res = await fetch(`${base.replace(/\/$/, '')}/products`, { cache: 'no-store' });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (err) {
+    console.error('Erro ao buscar produtos da API:', err);
+    return null;
   }
 }
 
